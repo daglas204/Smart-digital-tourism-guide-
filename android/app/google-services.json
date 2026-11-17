@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081889168202",
+    "project_id": "ai-jo-tour",
+    "storage_bucket": "ai-jo-tour.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081889168202:android:b372910b2b53a17cc2ffb3",
+        "android_client_info": {
+          "package_name": "com.example.jordan_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT-_lQLdPfUEt3Nf04TBQdWltgvDftnIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
